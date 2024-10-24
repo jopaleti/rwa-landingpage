@@ -1,4 +1,4 @@
-# Link to the demo page 👉 [[https://www.pumpin.netlify.app](https://www.pumpin.netlify.app)](https://pumpin.netlify.app/)
+# Link to the demo page 👉 [https://www.pumpin.netlify.app](https://www.pumpin.netlify.app)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
