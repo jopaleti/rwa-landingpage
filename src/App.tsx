@@ -25,6 +25,7 @@ function App() {
               >
                 Connect
               </button>
+             
               <button
                 data-collapse-toggle="navbar-cta"
                 type="button"
@@ -93,7 +94,7 @@ function App() {
           </div>
         </nav>
         <main className="mt-6 mx-auto max-w-screen-xl">
-          <div className="grid grid-cols-2 gap-4">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
             <div>
               <h1 className="font-bold">Book your Hotel with Tokens</h1>
               <div className="mt-8 __sub_text">
@@ -576,7 +577,7 @@ function App() {
           </div>
         </main>
       </div>
-      <div className="py-8 mx-auto max-w-screen-xl grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
+      <div className="__middle py-8 mx-auto max-w-screen-xl grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
         <a href="#" className="group">
           <div className="aspect-h-1 aspect-w-1 overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7 h-60 w-auto">
             <img
